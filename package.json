@@ -1,6 +1,6 @@
 {
   "name": "simplify-html-loader",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "简化的html-loader, 不检测link. ## 使用",
   "main": "index.js",
   "scripts": {
