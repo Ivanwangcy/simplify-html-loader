@@ -1,9 +1,8 @@
 /*
 	MIT License http://www.opensource.org/licenses/mit-license.php
-	Author Tobias Koppers @sokra
+	Author Ivan Wang
 */
 var htmlMinifier = require("html-minifier");
-var attrParse = require("./lib/attributesParser");
 var loaderUtils = require("loader-utils");
 var url = require("url");
 var assign = require("object-assign");
