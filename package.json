@@ -1,0 +1,27 @@
+{
+  "name": "simplify-html-loader",
+  "version": "1.0.0",
+  "description": "简化的html-loader, 不检测link. ## 使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivanwangcy/simplify-html-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivanwangcy/simplify-html-loader/issues"
+  },
+  "homepage": "https://github.com/Ivanwangcy/simplify-html-loader#readme",
+  "dependencies": {
+    "es6-templates": "^0.2.2",
+    "fastparse": "^1.0.0",
+    "html-minifier": "^1.0.0",
+    "loader-utils": "~0.2.2",
+    "object-assign": "^4.0.1"
+  }
+}
